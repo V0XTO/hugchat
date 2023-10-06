@@ -20,25 +20,20 @@ git clone https://github.com/V0XTO/hugchat.git
 ```
 ## Usage
 
+
 1. Run the script:
 
 ```bash
 source venv/bin/activate
 python3 main.py
-
-
-
 ```
 
 Enter your credentials
 ```bash
-
-
 Enter your email: email@example.com
 Enter your password: superpassword
-
-
 ```
+![Local Image](https://github.com/V0XTO/hugchat/blob/main/usage.png)
 
 
 
