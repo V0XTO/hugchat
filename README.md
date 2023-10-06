@@ -19,8 +19,8 @@ You can install the required Python libraries using pip:
 git clone https://github.com/V0XTO/hugchat.git
 ```
 ## Usage
-Change 
-2. Run the script:
+
+1. Run the script:
 
 ```bash
 source venv/bin/activate
@@ -32,13 +32,21 @@ Enter your password: superpassword
 
 ```
 
+Enter your credentials
+```bash
 
-> Hello, chatbot
-[Chatbot's Response]
+
+Enter your email: email@example.com
+Enter your password: superpassword
+
+
+```
+
+
 
 ## Customization
 
-You can customize the welcome messages by editing the `frases_bienvenida` list in the `chatbot.py` script.
+You can customize the welcome messages by editing the `frases_bienvenida` list in the `main.py` script.
 
 ## License
 
