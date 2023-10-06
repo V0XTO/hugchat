@@ -1,6 +1,6 @@
 # HugChat 😜
 
-This project implements a chatbot using the `hugchat` library. The chatbot can engage in conversations and provide responses to user inputs.
+This project implements a chatbot using the `hugchat` library. The chatbot can engage in conversations and provide responses to user inputs in cli.
 
 ## Prerequisites
 
