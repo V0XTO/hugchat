@@ -19,13 +19,16 @@ You can install the required Python libraries using pip:
 git clone https://github.com/V0XTO/hugchat.git
 ```
 ## Usage
-
-1. Run the script:
+Change 
+2. Run the script:
 
 ```bash
 source venv/bin/activate
 python3 main.py
 ```
+Enter your email: email@example.com
+Enter your password: superpassword
+
 
 
 > Hello, chatbot
