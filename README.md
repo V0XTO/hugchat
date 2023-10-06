@@ -15,7 +15,7 @@ Before running this project, make sure you have the following Python libraries i
 You can install the required Python libraries using pip:
 
 ```bash
-pip3 install hugchat colorama
+
 git clone https://github.com/V0XTO/hugchat.git
 ```
 ## Usage
@@ -25,8 +25,6 @@ git clone https://github.com/V0XTO/hugchat.git
 ```bash
 source venv/bin/activate
 python3 main.py
-
-
 ```
 
 
