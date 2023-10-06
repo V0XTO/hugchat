@@ -51,6 +51,6 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 ## Acknowledgments
 
-This project was inspired by the `linkfydev` library and the work of [Author Name](https://beacons.ai/linkfydev).
+This project was inspired by the `linkfydev` (https://beacons.ai/linkfydev).
 
 
