@@ -17,7 +17,7 @@ You can install the required Python libraries using pip:
 ```bash
 pip3 install hugchat colorama
 git clone https://github.com/V0XTO/hugchat.git
-
+```
 ## Usage
 
 1. Run the script:
