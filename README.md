@@ -25,10 +25,12 @@ Change
 ```bash
 source venv/bin/activate
 python3 main.py
-```
+
 Enter your email: email@example.com
 Enter your password: superpassword
 
+
+```
 
 
 > Hello, chatbot
