@@ -1,22 +1,13 @@
 # HugChat 😜
 ```bash
                                                                                                                                                                                    
-HHHHHHHHH     HHHHHHHHHUUUUUUUU     UUUUUUUU       GGGGGGGGGGGGGHHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCHHHHHHHHH     HHHHHHHHH               AAA         TTTTTTTTTTTTTTTTTTTTTTT
-H:::::::H     H:::::::HU::::::U     U::::::U    GGG::::::::::::GH:::::::H     H:::::::H   CCC::::::::::::CH:::::::H     H:::::::H              A:::A        T:::::::::::::::::::::T
-H:::::::H     H:::::::HU::::::U     U::::::U  GG:::::::::::::::GH:::::::H     H:::::::H CC:::::::::::::::CH:::::::H     H:::::::H             A:::::A       T:::::::::::::::::::::T
-HH::::::H     H::::::HHUU:::::U     U:::::UU G:::::GGGGGGGG::::GHH::::::H     H::::::HHC:::::CCCCCCCC::::CHH::::::H     H::::::HH            A:::::::A      T:::::TT:::::::TT:::::T
-  H:::::H     H:::::H   U:::::U     U:::::U G:::::G       GGGGGG  H:::::H     H:::::H C:::::C       CCCCCC  H:::::H     H:::::H             A:::::::::A     TTTTTT  T:::::T  TTTTTT
-  H:::::H     H:::::H   U:::::D     D:::::UG:::::G                H:::::H     H:::::HC:::::C                H:::::H     H:::::H            A:::::A:::::A            T:::::T        
-  H::::::HHHHH::::::H   U:::::D     D:::::UG:::::G                H::::::HHHHH::::::HC:::::C                H::::::HHHHH::::::H           A:::::A A:::::A           T:::::T        
-  H:::::::::::::::::H   U:::::D     D:::::UG:::::G    GGGGGGGGGG  H:::::::::::::::::HC:::::C                H:::::::::::::::::H          A:::::A   A:::::A          T:::::T        
-  H:::::::::::::::::H   U:::::D     D:::::UG:::::G    G::::::::G  H:::::::::::::::::HC:::::C                H:::::::::::::::::H         A:::::A     A:::::A         T:::::T        
-  H::::::HHHHH::::::H   U:::::D     D:::::UG:::::G    GGGGG::::G  H::::::HHHHH::::::HC:::::C                H::::::HHHHH::::::H        A:::::AAAAAAAAA:::::A        T:::::T        
-  H:::::H     H:::::H   U:::::D     D:::::UG:::::G        G::::G  H:::::H     H:::::HC:::::C                H:::::H     H:::::H       A:::::::::::::::::::::A       T:::::T        
-  H:::::H     H:::::H   U::::::U   U::::::U G:::::G       G::::G  H:::::H     H:::::H C:::::C       CCCCCC  H:::::H     H:::::H      A:::::AAAAAAAAAAAAA:::::A      T:::::T        
-HH::::::H     H::::::HH U:::::::UUU:::::::U  G:::::GGGGGGGG::::GHH::::::H     H::::::HHC:::::CCCCCCCC::::CHH::::::H     H::::::HH   A:::::A             A:::::A   TT:::::::TT      
-H:::::::H     H:::::::H  UU:::::::::::::UU    GG:::::::::::::::GH:::::::H     H:::::::H CC:::::::::::::::CH:::::::H     H:::::::H  A:::::A               A:::::A  T:::::::::T      
-H:::::::H     H:::::::H    UU:::::::::UU        GGG::::::GGG:::GH:::::::H     H:::::::H   CCC::::::::::::CH:::::::H     H:::::::H A:::::A                 A:::::A T:::::::::T      
-HHHHHHHHH     HHHHHHHHH      UUUUUUUUU             GGGGGG   GGGGHHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCHHHHHHHHH     HHHHHHHHHAAAAAAA                   AAAAAAATTTTTTTTTTT      
+ ___  ___  ___  ___  ________  ___  ___  ________  ___  ___  ________  _________   
+|\  \|\  \|\  \|\  \|\   ____\|\  \|\  \|\   ____\|\  \|\  \|\   __  \|\___   ___\ 
+\ \  \\\  \ \  \\\  \ \  \___|\ \  \\\  \ \  \___|\ \  \\\  \ \  \|\  \|___ \  \_| 
+ \ \   __  \ \  \\\  \ \  \  __\ \   __  \ \  \    \ \   __  \ \   __  \   \ \  \  
+  \ \  \ \  \ \  \\\  \ \  \|\  \ \  \ \  \ \  \____\ \  \ \  \ \  \ \  \   \ \  \ 
+   \ \__\ \__\ \_______\ \_______\ \__\ \__\ \_______\ \__\ \__\ \__\ \__\   \ \__\
+    \|__|\|__|\|_______|\|_______|\|__|\|__|\|_______|\|__|\|__|\|__|\|__|    \|__|
 ```     
 This project implements a chatbot using the `hugchat` library. The chatbot can engage in conversations and provide responses to user inputs in cli.
 
