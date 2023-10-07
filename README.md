@@ -60,7 +60,7 @@ Contributions are welcome! To contribute to this project, follow these steps:
 This project was inspired by the `linkfydev` (https://beacons.ai/linkfydev).
 
 Creator:
-
+```bash
  /$$    /$$  /$$$$$$  /$$   /$$ /$$$$$$$$ /$$$$$$ 
 | $$   | $$ /$$__  $$| $$  / $$|__  $$__//$$__  $$
 | $$   | $$| $$  \ $$|  $$/ $$/   | $$  | $$  \ $$
@@ -69,7 +69,7 @@ Creator:
   \  $$$/  | $$  | $$ /$$/\  $$   | $$  | $$  | $$
    \  $/   |  $$$$$$/| $$  \ $$   | $$  |  $$$$$$/
     \_/     \______/ |__/  |__/   |__/   \______/ 
-                                                  
-                                                  
+
+```                                          
 
 
