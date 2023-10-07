@@ -59,4 +59,17 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 This project was inspired by the `linkfydev` (https://beacons.ai/linkfydev).
 
+Creator:
+
+ /$$    /$$  /$$$$$$  /$$   /$$ /$$$$$$$$ /$$$$$$ 
+| $$   | $$ /$$__  $$| $$  / $$|__  $$__//$$__  $$
+| $$   | $$| $$  \ $$|  $$/ $$/   | $$  | $$  \ $$
+|  $$ / $$/| $$  | $$ \  $$$$/    | $$  | $$  | $$
+ \  $$ $$/ | $$  | $$  >$$  $$    | $$  | $$  | $$
+  \  $$$/  | $$  | $$ /$$/\  $$   | $$  | $$  | $$
+   \  $/   |  $$$$$$/| $$  \ $$   | $$  |  $$$$$$/
+    \_/     \______/ |__/  |__/   |__/   \______/ 
+                                                  
+                                                  
+
 
