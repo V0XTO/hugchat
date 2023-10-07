@@ -59,7 +59,8 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 This project was inspired by the `linkfydev` (https://beacons.ai/linkfydev).
 
-Creator:
+## Creator
+
 ```bash
  /$$    /$$  /$$$$$$  /$$   /$$ /$$$$$$$$ /$$$$$$ 
 | $$   | $$ /$$__  $$| $$  / $$|__  $$__//$$__  $$
