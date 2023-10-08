@@ -28,6 +28,7 @@ You can install the required Python libraries using pip:
 git clone https://github.com/V0XTO/hugchat.git
 cd hugchat
 python -m venv myenv
+source myenv/bin/activate
 
 
 ```
