@@ -15,8 +15,7 @@ This project implements a chatbot using the `hugchat` library. The chatbot can e
 
 Before running this project, make sure you have the following Python libraries installed:
 
-- `hugchat`
-- `colorama`
+- `python3`
 
 
 ## Installation
