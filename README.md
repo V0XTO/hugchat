@@ -47,7 +47,7 @@ pip3 install hugchat
 1. Run the script:
 
 ```bash
-source venv/bin/activate
+source myenv/bin/activate
 python3 main.py
 ```
 
